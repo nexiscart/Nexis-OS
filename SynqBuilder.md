@@ -1,0 +1,1 @@
+# SynqBuilder – No-Code AI Builder

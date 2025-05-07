@@ -1,0 +1,1 @@
+# NOVEX – General Intelligence Core
