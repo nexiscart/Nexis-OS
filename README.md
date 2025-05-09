@@ -1,3 +1,5 @@
+[![Sponsor](https://img.shields.io/badge/Fund%20Nexis%20OS-Crypto-blue?style=for-the-badge&logo=bitcoin)](https://commerce.coinbase.com/checkout/23c8004c-8ba7-4427-92e2-20431fc8ddfd)
+
 # Nexis OS
 The AI Operating System for Civilization
 
